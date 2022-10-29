@@ -1,0 +1,15 @@
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.AssemblyReference.cache
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfoInputs.cache
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.AssemblyInfo.cs
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.csproj.CoreCompileInputs.cache
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.deps.json
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.runtimeconfig.json
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.dll
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/bin/Debug/net6.0/StaticExercise.pdb
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.dll
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/refint/StaticExercise.dll
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.pdb
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/StaticExercise.genruntimeconfig.cache
+/Users/tylernewton/repos/Static-Exercise/StaticExercise/obj/Debug/net6.0/ref/StaticExercise.dll
